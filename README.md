@@ -18,7 +18,7 @@ Clone this repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/mnist-cnn.git
+git clone https://github.com/Wizbik27/CNN-CONVOLUTIONAL-NEURAL-NETWORK
 cd mnist-cnn
 Install the required packages:
 
